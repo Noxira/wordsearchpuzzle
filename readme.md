@@ -2,20 +2,20 @@
 
 
 ## Daftar Isi
-* [Informasi Umum](#informasi-umum)
-* [Teknologi Digunakan](#teknologi-digunakan)
-* [Tampilan Website](#tampilan-website)
+* [Deskripsi](#deskripsi)
+* [Requirement Program](#requirement-program)
 * [Setup](#setup)
+* [Link Penting](#link-penting)
 * [Penulis](#penulis)
 
 
-## Informasi Umum
+## Deskripsi
 Program untuk menyelesaikan Word Search Puzzle. Program berbasis CLI (command line interface) dengan input .txt yang ditaruh di dalam folder "test". 
 
 Program hanya pernah dites di Windows, secara teori program dapat dijalankan di Linux tetapi tidak melalui executable dalam folder "bin"
 
 ## Requirement program
-- [Java](https://java.com/en/download/windows_manual.jsp) 
+- [Java (JRE/JDK)](https://java.com/en/download/windows_manual.jsp) 
 
 ## Setup
 ***[Setup hanya disediakan untuk Sistem Operasi Windows]***
